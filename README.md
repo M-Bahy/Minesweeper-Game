@@ -1,2 +1,2 @@
 # Minesweeper-Game
-Minesweeper Game using Haskell
+Minesweeper Game using Haskell (Functional Programming Paradigm)
